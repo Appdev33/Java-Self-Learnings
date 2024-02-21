@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 
 
-public class Immutable {
+public final class Immutable {
 	
 	
 	final private  String name;
